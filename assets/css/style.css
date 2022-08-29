@@ -314,15 +314,15 @@ h3 {
 
 /* Original */
 
-/* #intro.section {
+#intro.section {
   background: url(../../assets/img/white-ai-wallpaper.jpg) no-repeat top center/cover;
   position: relative;
-} */
+}
 
-#intro.section {
+/* #intro.section {
   background: #a7ffeb repeat;
   position: relative;
-}
+} */
 
 #intro.section .container {
   color: white;
